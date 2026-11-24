@@ -1,0 +1,10 @@
+[package]
+name = "model-registry-rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["MLOps Engineering Team"]
+description = "Sample Rust model registry, MLOps pipeline, and security benchmark fixtures"
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
