@@ -1,9 +1,9 @@
 [package]
 name = "model-registry-rs"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["MLOps Engineering Team"]
-description = "Sample Rust model registry, MLOps pipeline, and security benchmark fixtures"
+description = "High-performance Rust model registry, MLOps artifact pipeline, and security benchmark harness"
 
 [dependencies]
 serde = { version = "1.0", features = ["derive"] }
